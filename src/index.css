@@ -6,3 +6,7 @@
     min-width: 0;
     color-scheme:dark
 }
+
+:root {
+    --rdp-accent-color: #BEF264;
+  }
